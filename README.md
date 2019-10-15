@@ -105,4 +105,10 @@ analogWrite(GREEN, 255);
 }
 ```
 
+The setup is finished and the device should be working fine!
+
+## The Next Step
+ If you want to make wifi connected smoke detector you could follow the following manuel:
+ 
+ https://www.instructables.com/id/WiFi-Smoke-Detector/
 
